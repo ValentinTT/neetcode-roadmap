@@ -16,10 +16,10 @@ I'll be maintaining this repository regularly to log my progress. Here's how I p
 
 #### Arrays & Hashing
 
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Two Sum
-- [ ] Group Anagrams
+- [x] Contains Duplicate
+- [x] Valid Anagram
+- [x] Two Sum
+- [x] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
 - [ ] Valid Sudoku
